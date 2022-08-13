@@ -1,0 +1,42 @@
+.saffron{
+    background-color: #FF9933;
+    margin-top: 176px;
+    height: 76px;
+    width: 381px;
+    margin-left: 459px;
+}
+
+.White{
+    background-color: #FFFFFF;
+    height: 76px;
+    width: 381px;
+    margin-left: 459px;
+}
+
+.White img{
+    height: 79px;
+    margin-left: 146px;
+}
+.Green{
+    background-color: #138808;
+    height: 76px;
+    width: 381px;
+    margin-left: 459px;
+}
+
+body{
+    background-color: wheat;
+    overflow: hidden;
+}
+
+
+.flag img{
+    height: 445px;
+    margin-left: 854px;
+    margin-top: -159px;
+}
+
+.music{
+    margin-top: -803px;
+    border-radius: 29px;
+}
